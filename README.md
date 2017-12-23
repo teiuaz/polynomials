@@ -2,7 +2,7 @@ That is a program that calculates all irreducible polynomials prior to specified
 
 ### How to run
 
-1. Download boost [library](http://www.boost.org/users/history/version_1_61_0.html) of version 1.61.0 and put into folder.
+1. Download boost [library](http://www.boost.org/users/history/version_1_61_0.html) of version 1.61.0 and extract here.
 2. Make run.sh file executable `chmod +x run.sh`
 3. Execute run script `./run.sh`
 
